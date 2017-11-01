@@ -1,0 +1,16 @@
+132 = boxAlt = 0 792 70 70
+60 = boxExplosive = 0 360 70 70 
+55 = castleCenter = 504 288 70 70 
+127 = castleCenter_rounded = 504 720 70 70 
+81 = door_closedMid = 648 432 70 70 
+69 = door_closedTop = 648 360 70 70 
+57 = door_openMid = 648 288 70 70 
+45 = door_openTop = 648 216 70 70 
+9 = grass = 648 0 70 70 
+140 = grassCenter_rounded = 576 792 70 70 
+138 = liquidLavaTop_mid = 432 792 70 70 
+43 = liquidWater = 504 216 70 70 
+102 = liquidWaterTop_mid = 432 576 70 70 
+28 = snow = 288 144 70 70 
+16 = snowCenter_rounded = 288 72 70 70
+7 = liquidLava = 504 0 70 70  

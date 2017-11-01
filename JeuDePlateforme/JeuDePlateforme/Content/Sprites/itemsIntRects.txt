@@ -1,0 +1,17 @@
+0 = rock = 0 0 70 70
+1 = mushroom = 70 0 70 70 
+2 = gem_green = 140 0 70 70 
+3 = gem_blue = 210 0 70 70 
+4 = coin_gold = 280 0 70 70 
+5 = spikes = 350 0 70 70 
+6 = lever_right = 420 0 70 70
+7 = lever_middle = 490 0 70 70
+8 = lever_left = 0 70 70 70
+9 = spring_up = 70 70 70 70
+10 = spring_down = 140 70 70 70
+11= flag_green_0 = 210 70 70 70
+12 = flag_yellow_0 = 280 70 70 70
+19 = flag_green_1 = 210 140 70 70
+20 = flag_yellow_1 = 280 140 70 70
+27 = flag_green_2 = 210 210 70 70
+28 = flag_yellow_2 = 280 210 70 70
